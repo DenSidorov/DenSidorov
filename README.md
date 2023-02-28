@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @DenSidorov
 - 👀 I’m interested in web-programming
-- 🌱 I’m currently learning JS, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alexandrovich07@list.ru
+- 🌱 I’m currently learning:
+          HTML, CSS,Git
+          Python,Django
+          JavaScript, TypeScript, React
+          Docker, Wedpack
+          MongoDB, SQLite
+- 📫 How to reach me:
+          tel: +7-929-977-92-95
+          telegram: @densidorov
+          e-mail: densidv7@yandex.ru
 
 
 <!---
